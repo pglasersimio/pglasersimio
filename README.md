@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just getting started 👌
 
 <!--
 **pglasersimio/pglasersimio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
